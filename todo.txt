@@ -1,0 +1,11 @@
+done :
+tampilan kajian harian
+tampilan tambah kajian
+integrasi database:
+	tampilkan per hari
+
+to-do:
+tampilan pekanan
+	kelompok hari
+	kelompok tempat
+tambah jadwal kajian

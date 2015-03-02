@@ -1,0 +1,29 @@
+@font-face{
+	font-family:'Lobster';
+	src:url(../fonts/Lobster.otf);
+}
+
+
+.jumbotron{
+	padding:30px 15px;
+	margin-bottom:30px;
+	color:inherit;
+	background-color:#000
+}
+
+.jumbotron h1,.jumbotron .h1{
+	font-family:'Lobster';
+	color:inherit
+}
+.navbar-edited {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    margin-left: -15px;
+    border: 1px solid transparent;
+}
+
+.navbar-edited > .container > .navbar-header, .container-fluid > .navbar-header, .container > .navbar-collapse, .container-fluid > .navbar-collapse {
+    margin-right: -15px;
+    margin-left: -15px;
+}
